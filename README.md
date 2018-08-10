@@ -1,6 +1,7 @@
 # Amazon_lambda_tutorials
 A few resources to get started with AWS Lambda:
 
+* [Awesome AWS Tutorials](https://github.com/donnemartin/awesome-aws) by Donne Martin 
 * [Slack API AWS Lambda Tutorials](https://api.slack.com/tutorials/tags/lambda-lambda-lambda) 
 * [Amazon Lambda online Book](https://www.manning.com/books/aws-lambda-in-action) by Danilo Poccia 
 * [Amazon Web Services in Action](https://www.manning.com/books/amazon-web-services-in-action) by M. and A. Wittig
